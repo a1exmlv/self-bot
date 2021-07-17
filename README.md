@@ -3,11 +3,17 @@
 ➤Comandos
 
 pkg update
+
 pkg upgrade
+
 pkg install git
+
 git clone https://github.com/Mr-Pato/self-bot
+
 cd self-bot
+
 bash install.sh
+
 npm start
 
 ➤Debes de tener 2 dispositivos para poder escanear 
