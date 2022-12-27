@@ -1,4 +1,4 @@
-❮ ❮ 𝐁𝐘 𝐏𝐀𝐓𝐎 ❯ ❯
+(ya no funca creo)
 
 ➤Comandos
 
